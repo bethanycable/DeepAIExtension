@@ -1,7 +1,7 @@
 {
-    "name": "Chrome Extension",
+    "name": "DeepAI Extension",
     "version": "1.0.0",
-    "description": "This is a crhome extension that will do something",
+    "description": "This extension is taking an approach at DeepAI with api calls giving the user the ability to generate their own pictures using a word prompt.",
     "manifest_version": 3,
-    "author": "Brian Jabers & Bethany Mattern"
+    "author": "Brian Jaber & Bethany Mattern"
 }
