@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "deepai": "^1.0.21"
+    "deepai": "^1.0.21",
+    "dotenv": "^16.0.3",
+    "requirejs": "^2.3.6"
   }
 }
